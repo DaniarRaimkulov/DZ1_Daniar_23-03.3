@@ -1,0 +1,13 @@
+#container{
+    margin-top: 100px;
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: black;
+}
+#block{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
